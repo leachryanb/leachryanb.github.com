@@ -1,6 +1,10 @@
 ---
 layout: default
 title: NFJS - Modeling Resources
+tags:
+  NFJS
+  Conference
+  REST
 ---
 
 # Modeling Resources

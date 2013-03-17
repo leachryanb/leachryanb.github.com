@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Backbone Workshop
+title: NFJS - Backbone Workshop
+tags:
+  NFJS
+  Conference
+  Backbone
 ---
 
 ## Blah Blah History of Computing...
