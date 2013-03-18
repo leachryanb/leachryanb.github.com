@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Notes
+title: NFJS - Mobile Design Workshop
+tags:
+  NFJS
+  Conference
+  Mobile
 ---
 
 # Mobile Design Workshop
