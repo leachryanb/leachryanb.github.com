@@ -28,3 +28,5 @@ This topic has come up in earnest recently in my current job at EBSCO Publishing
 - How do we answer Joey/Jolene Java and Charlene/Charlie C# (Insert quippy backend developer name here), or even Jimbo/Jackie JavaScript, who now think that they have all they will ever need, UX-wise, to build out that next killer app with no help from us...
 
 So, this is all a bit dramatic, for sure, but I think these are all real questions we as UX developers are being asked to provide answers to.  I'd like to open this up as an opportunity to get on the same page.  I expect that the answer to most of the questions above will be a resounding "it depends", but let's dig into that.  Anyone game?
+
+Let's have a converstion here and potentially a meetup if we feel like it's worth it.
