@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The Dailies</title>
+ <link href="http://leachryanb.github.com/" rel="self"/>
+ <link href="http://leachryanb.github.com"/>
+ <updated>2013-07-01T13:46:59-04:00</updated>
+ <id>http://leachryanb.github.com</id>
+ <author>
+   <name>Ryan B Leach</name>
+   <email>leachryanb@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>In A World With Twitter Bootstap...</title>
+   <link href="http://leachryanb.github.com/blog/2013/07/01/trapped-in-a-cage-with-twitter-bootstap..."/>
+   <updated>2013-07-01T00:00:00-04:00</updated>
+   <id>http://leachryanb.github.com/blog/2013/07/01/trapped-in-a-cage-with-twitter-bootstap...</id>
+   <content type="html">&lt;p&gt;While at the E4E conf, (Great to see all my ex-coworkers, btw), I asked Stacy Keller about her experiences with Twitter Bootstrap and how it is being received by the general UX designer/developer community.&lt;/p&gt;
+
+&lt;p&gt;This topic has come up in earnest recently in my current job at EBSCO Publishing where we are in the process of deciding whether or not to adopt Bootstrap for our newer products due to its ease of implementation.  Wendee Fiorillo and Wylie Fisher, as very experienced Senior UX developers have been leading this charge here, but it seems like a more valuable conversation than just one to have internally.&lt;/p&gt;
+
+&lt;p&gt;h4. We have a lot of questions and conflicting opinions which we&#39;d like to chew on with any and all who have first hand experience:**&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It seems like it solves a swath of standard problems, but what problems does it create?&lt;/li&gt;
+&lt;li&gt;What problems doesn&#39;t it solve and how important are they?&lt;/li&gt;
+&lt;li&gt;Where does it fall down?&lt;/li&gt;
+&lt;li&gt;What about accessibility and semantics?&lt;/li&gt;
+&lt;li&gt;How much effort does it take to customize its output?&lt;/li&gt;
+&lt;li&gt;How maintainable is a highly customized bootstrap?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;h4. And as a totally separate, but equally important side-discussion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What does the work-a-day world of a UX designer/developer look like in a development landscape clamoring for more bootstrap?&lt;/li&gt;
+&lt;li&gt;Is it the best thing that has happened for our careers, or the worst thing?&lt;/li&gt;
+&lt;li&gt;How do we answer Joey/Jolene Java and Charlene/Charlie C# (Insert quippy backend developer name here), or even Jimbo/Jackie JavaScript, who now think that they have all they will ever need, UX-wise, to build out that next killer app with no help from us...&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;So, this is all a bit dramatic, for sure, but I think these are all real questions we as UX developers are being asked to provide answers to.  I&#39;d like to open this up as an opportunity to get on the same page.  I expect that the answer to most of the questions above will be a resounding &quot;it depends&quot;, but let&#39;s dig into that.  Anyone game?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No Fluff Just Stuff Conf   Boston</title>
+   <link href="http://leachryanb.github.com/blog/2013/03/17/no-fluff-just-stuff-conf---boston"/>
+   <updated>2013-03-17T00:00:00-04:00</updated>
+   <id>http://leachryanb.github.com/blog/2013/03/17/no-fluff-just-stuff-conf---boston</id>
+   <content type="html">&lt;p&gt;This weekend I went to the NFJS conf North of Boston.  Very Java heavy, but there were 2 talks I appreciated in particular:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ntschutta&quot;&gt;Nathaniel Shutta&lt;/a&gt; Gave a really great talk on the state of mobile in his &lt;a href=&quot;http://www.nofluffjuststuff.com/conference/boston/2013/03/session?id=28055&quot;&gt;Mobile Design Workshop&lt;/a&gt; that scared the livin&#39; bejeezus outta me.  Made some great points about how important mobile 1&lt;sup&gt;st&lt;/sup&gt; is.  I hadn&#39;t been following the stats of late, but the numbers on smartphone activations and sales vs PCs are alarming.  Nice connection on how focusing on mobile helps you hone your message in general.&lt;/p&gt;
+
+&lt;p&gt;Also heard a great talk from &lt;a href=&quot;http://twitter.com/bsletten&quot;&gt;Brian Sletten&lt;/a&gt; on &lt;a href=&quot;http://www.nofluffjuststuff.com/conference/boston/2013/03/session?id=28044&quot;&gt;Modeling Resources: REST and Hypermedia&lt;/a&gt;.  Helpful focus on the fact that the web and specifically REST is about exposing resources not just creating &quot;services&quot;.  The identity of resources is what&#39;s important, not how it gets there.  Great explanation of the original spec intent of all the verbs, which are itempotent, etc, and how we overuse POST.&lt;/p&gt;
+
+&lt;p&gt;Good stuff.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
