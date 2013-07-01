@@ -1,5 +1,5 @@
 ---
-title: Trapped In A Cage With Twitter Bootstap...
+title: Trapped In A Cage With Twitter Bootstrap...
 layout: post
 category: blog
 tags:
