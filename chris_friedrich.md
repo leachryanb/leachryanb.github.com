@@ -26,3 +26,5 @@ Spring Street Cemetery in Essex ([Maps & Directions](https://www.google.com/maps
 #### Reception - 2pm
 Christ Church of Hamilton and Wenham. ([Maps & Directions](https://www.google.com/maps?q=Christ+Church,+149+Asbury+Street,+South+Hamilton,+MA&hl=en&sll=42.683424,-70.837443&sspn=1.41836,1.124725&oq=Chri&hq=Christ+Church,&hnear=149+Asbury+St,+South+Hamilton,+Massachusetts+01982&t=m&z=17))
 
+<hr>
+{% include JB/comments %}
